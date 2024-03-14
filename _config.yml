@@ -110,9 +110,9 @@ author:
   location         : "Seoul, South Korea"
   email            : "mailto:kangwoo.choi.antonio@gamil.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kangwoo.choi.antonio@gmail.com"
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:kangwoo.choi.antonio@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://kangwoochoi.github.io/"
@@ -136,7 +136,8 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
+      #icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kangwoo.choi.antonio@gmail.com"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
