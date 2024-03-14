@@ -134,8 +134,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:kangwoo.choi.antonio@gmail.com"
-    - label: "Brunch"
-      icon: "https://kangwoochoi.github.io/assets/downloads/brunch-logo.png"
+    - label: "BrunchStory"
+      icon: "https://kangwoochoi.github.io/assets/images/brunch-logo.png"
       url: "https://brunch.co.kr/@antonio-choi"
 
 # Site Footer
