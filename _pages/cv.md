@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-![caterpillar](https://KangwooChoi.github.io/assets/files/CV_Kangwoo-Choi.pdf)
+<object data="../assets/path/files/CV_Kangwoo-Choi.pdf" width="1000" height="1000" type='application/pdf'></object>
