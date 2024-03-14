@@ -113,9 +113,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://kangwoochoi.github.io/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:kangwoo.choi.antonio@gmail.com"
    #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -131,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.linkedin.com/in/kangwoo-choi-antonio/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:kangwoo.choi.antonio@gmail.com"
 
 # Site Footer
 footer:
