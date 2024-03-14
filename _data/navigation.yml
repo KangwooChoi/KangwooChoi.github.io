@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "BIO"
-    url: /asset/bio/
+    url: /bio/
   - title: "Work Experience"
-    url: /asset/workexperience/
+    url: /workexperience/
   - title: "Education"
-    url: /asset/education/
+    url: /education/
   - title: "CV"
-    url: /asset/cv/
+    url: /cv/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
