@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kangwoo Choi"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Software Developer <br>@SAP Labs Korea"
+  bio              : "I am a **AWESOME** and **AMZAING** guy. <br>Senior Software Developer<br>@SAP Labs Korea<br>'"We have two lives, and the second begins when we realize we only have one.'""
   location         : "Seoul, South Korea"
   email            : # "mailto:kangwoo.choi.antonio@gamil.com"
   links:
@@ -127,7 +127,7 @@ author:
       url: "https://kangwoochoi.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.linkedin.com/in/kangwoo-choi-antonio/"
+      url: "https://www.instagram.com/antonio.choe/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:kangwoo.choi.antonio@gmail.com"
