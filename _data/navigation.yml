@@ -6,6 +6,8 @@ main:
     url: /workexperience/
   - title: "Education"
     url: /education/
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
     url: /cv/
   # - title: "Quick-Start Guide"
