@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kangwoo Choi"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **AWESOME** and **AMZAING** guy. <br>Senior Software Developer<br>@SAP Labs Korea<br>'"We have two lives, and the second begins when we realize we only have one.'""
+  bio              : 'I am a **AWESOME** and **AMZAING** guy. <br>Senior Software Developer<br>@SAP Labs Korea<br>"We have two lives, and the second begins when we realize we only have one."'
   location         : "Seoul, South Korea"
   email            : # "mailto:kangwoo.choi.antonio@gamil.com"
   links:
