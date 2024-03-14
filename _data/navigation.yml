@@ -9,7 +9,7 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "CV"
-    url: /cv/
+    url: <a class="nav-link" href="../downloads/CV.pdf">CV</a>
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
