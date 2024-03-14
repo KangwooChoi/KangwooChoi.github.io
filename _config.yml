@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kangwoo Choi"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Senior Software Developer <br>@SAP Labs Korea"
   location         : "Seoul, South Korea"
   email            : # "mailto:kangwoo.choi.antonio@gamil.com"
   links:
