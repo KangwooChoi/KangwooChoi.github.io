@@ -1,6 +1,6 @@
 ---
 title: "BIO"
-layout: categories
+layout: posts
 permalink: /bio/
 author_profile: true
 ---
