@@ -1,6 +1,6 @@
 ---
 title: "Education"
 layout: posts
-permalink: /bio/
+permalink: /education/
 author_profile: true
 ---
