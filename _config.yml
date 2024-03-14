@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Kangwoo Choi"
 description              : "An amazing website."
 url                      : "https://kangwoochoi.github.io/"
-baseurl                  : "/assets" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "KangwooChoi/KangwooChoi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -110,9 +110,6 @@ author:
   location         : "Seoul, South Korea"
   email            : "mailto:kangwoo.choi.antonio@gamil.com"
   links:
-    #- label: "Email"
-      #icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:kangwoo.choi.antonio@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://kangwoochoi.github.io/"
