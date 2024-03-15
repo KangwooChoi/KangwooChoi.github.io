@@ -138,8 +138,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:kangwoo.choi.antonio@gmail.com"
     - label: "BrunchStory"
-      icon: "fas fa-fw fa-brunchstory"
-      # image: /assets/images/brunch-log.png
+      image: "/assets/images/brunch-log.png"
       # image: "https://kangwoochoi.github.io/assets/images/brunch-logo.png"
       # image_alt: "brunchstory"
       url: "https://brunch.co.kr/@antonio-choi"
