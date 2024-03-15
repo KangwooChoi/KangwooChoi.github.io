@@ -140,7 +140,7 @@ author:
     - label: "BrunchStory"
       image: "/assets/images/brunch-log.png"
       # image: "https://kangwoochoi.github.io/assets/images/brunch-logo.png"
-      # image_alt: "brunchstory"
+      image_alt: "brunchstory"
       url: "https://brunch.co.kr/@antonio-choi"
 
 # Site Footer
@@ -174,6 +174,11 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.linkedin.com/in/kangwoo-choi-antonio/"
+    - label: "BrunchStory"
+      image: "/assets/images/brunch-log.png"
+      # image: "https://kangwoochoi.github.io/assets/images/brunch-logo.png"
+      image_alt: "brunchstory"
+      url: "https://brunch.co.kr/@antonio-choi"
 
 
 # Reading Files
