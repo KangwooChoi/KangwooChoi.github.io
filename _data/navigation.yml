@@ -8,6 +8,8 @@ main:
     url: /education/
   - title: "Publications"
     url: /publications/
+  - title: "Selected Awards"
+    url: /selectedawards/
   - title: "CV"
     url: https://kangwoochoi.github.io/assets/downloads/CV.pdf
   # - title: "Quick-Start Guide"
