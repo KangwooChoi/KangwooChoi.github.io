@@ -130,7 +130,7 @@ author:
       url: "https://github.com/KangwooChoi"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Kangwoo+Choi+SAP&btnG="
+      url: "https://scholar.google.com/citations?user=Lom7Dq8AAAAJ&hl=en"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/antonio.choe/"
@@ -167,7 +167,7 @@ footer:
       #url: "https://github.com/KangwooChoi/LeetCode"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Kangwoo+Choi+SAP&btnG="
+      url: "https://scholar.google.com/citations?user=Lom7Dq8AAAAJ&hl=en"
     #- label: "Bitbucket"
       #icon: "fab fa-fw fa-bitbucket"
       # url:
