@@ -161,7 +161,7 @@ footer:
       url: "https://www.linkedin.com/in/kangwoo-choi-antonio/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://kangwoochoi.github.io/"
+      url: "https://github.com/KangwooChoi/"
     #- label: "GitLab"
       #icon: "fab fa-fw fa-gitlab"
       #url: "https://github.com/KangwooChoi/LeetCode"
