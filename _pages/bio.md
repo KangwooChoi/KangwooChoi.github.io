@@ -17,11 +17,11 @@ author_profile: true
   and graduated from <b>the same university</b> with
   <a style="text-decoration:none;" href="https://www.imdb.com/name/nm1454896/"><b><font color="black">김태희(Kim, Tae-hee)</font></b></a>
   on <b>the exactly same day</b>.
-  <br><br>However, the **MOST AMAZING Thing** is that I might take the course of <b>Quantumn Physics</b> in the department of Physics with 
+  <br><br>However, the *MOST AMAZING Thing* is that I might take the course of <b>Quantumn Physics</b> in the department of Physics with 
   <a style="text-decoration:none;" href="https://web.math.princeton.edu/~huh/"><b><font color="black">허준이(June Huh)</font></b></a>
-  , who is very well-known for the winner of <b>'Fields Medal'</b> in 2022 from IMU.
+  together, who is very well-known for the winner of <b>'Fields Medal'</b> in 2022 from IMU.
 
-  <br><br>I am currently living in the **SECOND LIFE**. <br>Warmly Welcome and please feel free to contact me via email whatever :)
+  <br><br>I am currently living in the *SECOND LIFE*. <br>Warmly Welcome and please feel free to contact me via email or whatever :)
 </p>
 </body>
 
